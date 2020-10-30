@@ -1,0 +1,9 @@
+
+
+
+
+These animations work by using a server 
+sided menu aka the "vMenu" as long as you have that menu 
+installed to your fivem server all you have to do is go in 
+game and pick one and helmets then back out of the menu and 
+press and hold "f11" to put the headset up and down.
